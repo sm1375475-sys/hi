@@ -25,3 +25,4 @@ class Student:
         print("Grades:", self.get_grades())
         print("Average:", self.calculate_average())
         print("Grade:", self.calculate_grade())
+        print("hello salma")
